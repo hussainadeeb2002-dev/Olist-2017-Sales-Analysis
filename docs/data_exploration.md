@@ -35,8 +35,7 @@
 ### Key Findings
 
 - The dataset contains order records from **September 4, 2016** to **October 17, 2018**.
-- The analysis covers approximately **2 years and 1 month** of customer purchase activity.
+- The analysis covers only for the year 2017 of customer purchase activity.
 - All subsequent sales and business analyses are based on transactions within this time period.
 
--- How many unique customers, sellers, and products are in the dataset?
 
